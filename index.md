@@ -9,8 +9,8 @@
 
   
   <!-- <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://www.your_website/file_name.pptx]' width='100%' height='600px' frameborder='0'> -->
-<iframe src='https://PratikSathe.github.io/CS_WF_and_SL_P.pptx]' width='100%' height='600px' frameborder='0'>
-  
+<!-- <iframe src='https://PratikSathe.github.io/CS_WF_and_SL_P.pptx]' width='100%' height='600px' frameborder='0'> -->
+<iframe width="100%" height="630" src="https://PratikSathe.github.io/CS_WF_and_SL_P.pptx" ></iframe>
 <p>My first paragraph. ABCD</p>
 
 </body>
