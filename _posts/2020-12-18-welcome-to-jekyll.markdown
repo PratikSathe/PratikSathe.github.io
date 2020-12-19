@@ -4,6 +4,7 @@ title:  "Measurements in Q#"
 date:   2020-12-19 00:00:01 -0800
 categories: jekyll qsharp
 permalink: "/qsharp/single-qubit-measurement-tutorial"
+thumbnail: "{{site.baseurl}}/assets/circuit_diagram/measurement_figure.png"
 ---
 
 > This blog post is written as part of the [Q# Advent Calendar – December 2020](https://devblogs.microsoft.com/qsharp/q-advent-calendar-2020/).
