@@ -25,9 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
+markdown: kramdown #redcarpet
 github_username:  PratikSathe
-
-# markdown: redcarpet
 
 # Build settings
 theme: minima #jekyll-theme-hacker
@@ -36,7 +35,8 @@ plugins:
   - jekyll-feed
   - jemoji
 
-markdown: kramdown
+
+
 # kramdown:
 #     math_engine: katex
 
