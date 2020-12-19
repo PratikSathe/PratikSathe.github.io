@@ -1,7 +1,7 @@
 ---
 layout: post_math
 title:  "Measurements in Q#"
-date:   2020-12-19 10:38:35 -0800
+date:   2020-12-19 00:00:01 -0800
 categories: jekyll qsharp
 permalink: "/qsharp/single-qubit-measurement-tutorial"
 ---
@@ -9,7 +9,7 @@ permalink: "/qsharp/single-qubit-measurement-tutorial"
 > This blog post is written as part of the [Q# Advent Calendar – December 2020](https://devblogs.microsoft.com/qsharp/q-advent-calendar-2020/).
 
 
-![My helpful screenshot]({{site.baseurl}}/assets/circuit_diagram/measurement_figure.png "AA")
+![Single qubit quantum measurement]({{site.baseurl}}/assets/circuit_diagram/measurement_figure.png "Single qubit quantum measurement")
 *A typical quantum circuit starts with the state $|0\rangle$, operates some quantum gates on it, and ends in a measurement resulting in 0 or 1.*
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
@@ -25,7 +25,7 @@ To demystify these concepts, we recently created [a tutorial on measurements in 
 
 I am glad to have participated in the Microsoft mini-mentorship program, during which I got to work on creating this tutorial, which is my first contribution on Github! I learned a lot during this process. I learned how to code in Q#, and how to create unit tests. I also learned about the power of Github, and have already started using it for my personal projects. I am thankful to Mariia Mykhailova for guiding me through this process. 
 
- We hope that you enjoy learning from this tutorial. Over the next few weeks, we plan to create a follow-up tutorial soon, introducing measurements on multi-qubit systems.
+ We hope that you enjoy learning from this tutorial. Over the next few weeks, we plan to create a follow-up tutorial, introducing measurements on multi-qubit systems.
 
 <!-- ---------------
 add /** Page content */
