@@ -21,7 +21,7 @@
 title: Pratik Sathe
 email: sathepratik@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a physics Phd candidate at UCLA, working on some problems in condensed matter physics and quantum computing.
+  Physics Phd student at UCLA, working on some problems in condensed matter physics and quantum computing.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
