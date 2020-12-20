@@ -1,3 +1,12 @@
+# frozen_string_literal: true
+
+# source "https://rubygems.org"
+# gemspec
+
+# gem "jekyll", ENV["JEKYLL_VERSION"] if ENV["JEKYLL_VERSION"]
+# gem "kramdown-parser-gfm" if ENV["JEKYLL_VERSION"] == "~> 3.9"
+
+
 source "https://rubygems.org"
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -29,8 +38,3 @@ end
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 gem 'jemoji'
-
-# gem "redcarpet"
-
-# minima:
-#   skin: dark

@@ -1,7 +1,7 @@
 ---
 layout: post_math
 title:  "Measurements in Q#"
-date:   2020-12-19 00:00:01 -0800
+date:   2020-12-20 00:00:01 -0800
 categories: jekyll qsharp
 permalink: "/qsharp/single-qubit-measurement-tutorial"
 thumbnail: "{{site.baseurl}}/assets/circuit_diagram/measurement_figure.png"
