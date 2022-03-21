@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Home"
-layout: single
+layout: home
 modified: 2022-03-21
 ---
 
