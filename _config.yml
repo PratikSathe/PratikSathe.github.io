@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pratik Sathe's personal webpage"
+title                    : "Hbirder"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Pratik Sathe"
@@ -25,7 +25,7 @@ url                      : "https://pratiksathe.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/Pratik_watermark.png"
+logo                     : #"/assets/images/Pratik_watermark.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -121,8 +121,11 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/birds.are.lit/"
     - label: "Google Scholar"
-      icon: ""
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=aM8uIS8AAAAJ&hl=en"
+    # - label: "ORCHID"
+    #   icon: "ai ai-orcid-square ai-fw"
+    #   url: "https://scholar.google.com/citations?user=aM8uIS8AAAAJ&hl=en"
 
 # Site Footer
 # footer:
@@ -221,8 +224,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 10 # amount of posts to show
-paginate_path: /page:num/
+# paginate: 10 # amount of posts to show
+# paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones #America/Los_Angeles
 
 

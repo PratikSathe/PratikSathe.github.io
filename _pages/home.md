@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /not-used
 title: "Home"
 layout: home
 modified: 2022-03-21

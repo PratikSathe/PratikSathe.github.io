@@ -1,16 +1,21 @@
 main:
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
   - title: "Posts"
     url: /posts/
-  # - title: "Categories"
-  #   url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About me"
-    url: /about/
+    url: /
+  # - title: "Contact"
+  #   url: /contact/
   # - title: "Home"
   #   url: /
   # - title: "Collections"
   #   url: /collection-archive/
-  - title: "Contact"
-    url: /contact/
+  # - title: "Tags"
+  #   url: /tags/
+  # - title: "Categories"
+  #   url: /categories/
+  
 
