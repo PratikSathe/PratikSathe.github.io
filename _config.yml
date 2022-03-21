@@ -64,27 +64,24 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/PratikSathe"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/birds.are.lit/"
+    - label: "Google Scholar"
+      icon: ""
+      url: "https://scholar.google.com/citations?user=aM8uIS8AAAAJ&hl=en"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/PratikSathe"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/birds.are.lit/"
 
 defaults:
   # _posts
@@ -98,6 +95,7 @@ defaults:
       comments: true
       share: true
       related: true
+      mathjax: true
   # _pages
   - scope:
       path: "_pages"
