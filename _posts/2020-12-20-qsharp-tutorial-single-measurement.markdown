@@ -9,7 +9,8 @@ tags:
   - quantumComputing
 permalink: "/qsharp/single-qubit-measurement-tutorial"
 ---
-
+aa-bb
+cc-dd
 > This blog post is written as part of the [Q# Advent Calendar – December 2020](https://devblogs.microsoft.com/qsharp/q-advent-calendar-2020/).
 
 
