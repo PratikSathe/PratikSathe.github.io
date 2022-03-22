@@ -14,22 +14,15 @@ permalink: "/self-jekyll"
 
 To do's:
 
+
 - Create my first blog post regarding birds. Perhaps the interaction that I saw between a hummingbird and a swinhoe's white eye.
-
 - Check what I can do to add `www.` to my website
-
 - Add research projects to the reserch page. Add one pic per project
-
 - Add publications and conferences to the publications page
-
 - Add a page with my CV (in html, and also a PDF)
-
 - Reduce font size for:
-  
   - Posts
-  
   - Mast-header
-
 - Reduce gap between list elements
 
 <!-- ---------------

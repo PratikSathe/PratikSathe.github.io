@@ -570,6 +570,7 @@ body {
 
 /* Added this for text justification */
 
-p {
+p,
+li {
   text-align: justify;
 }
