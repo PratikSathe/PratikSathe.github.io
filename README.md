@@ -26,10 +26,6 @@ If you have a question about using Jekyll, start a discussion on the [Jekyll For
 - [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
 - [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
 
-
-
-
-
 Some info that'll be useful later:
 
 Steps:
@@ -65,3 +61,23 @@ Initializing:
    1. `jekyll build`
    
    2. `jekyll serve` (or `jekyll serve --livereload` ). Go to `localhost:4000` to see what the website will look like.
+
+In order to use a specific theme, one may use the remote theme option (in which one tells the server to use the theme files stored in a GitHub repository maintaned by developers), or install a theme. I found the latter to be more suitable, since I wanted to make my own changes to the theme I was planning to use. (It is possible to make changes even in the remote theme option, but there is a risk of something breaking if the remote repository becomes incompatible with the changes you make.)
+
+Here are the steps I followed:
+
+1. Create my website repository (`pratiksathe.github.io`)
+
+2. Copy all the files from the `Minimal Mistakes` repository into this repository.
+
+3. In cmd, do `bundle`, `bundle add webrick`, `bundle update` and `bundle install`.
+
+4. Do `bundle exec jekyll serve --livereload`. Go to `localhost:4000` in a browser. Making any changes in the folder will be reflected immediately in the browser.
+
+5. Make the changes you want, such as editing or adding posts and pages. If you want to make changes to the theme, make appropriate edits to the sass, layout files etc.
+
+6. If it all looks good at `localhost:4000` commit and push changes.
+
+After doing all this, the website will be available at `username.github.io`.
+
+In order to host the website on GitHub after buying a domain from Google domains, follow the instructions here [link](https://dev.to/trentyang/how-to-setup-google-domain-for-github-pages-1p58).
