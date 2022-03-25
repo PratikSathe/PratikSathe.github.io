@@ -5,6 +5,9 @@ layout: single
 modified: 2022-03-21
 ---
 
-I am a physics PhD student at UCLA, working in Prof. [Rahul Roy](https://cmt-roy.physics.ucla.edu/content/rahul-roy)'s group. I am working on some problems in theoretical condensed matter systems (i.e. the study of properties of crystalline materials), and my current focus is on the localization properties of (quantum) electronic wavefuntions and connections with band topology, projection operators and disorder.
 
-In my free time, I like to observe and take photos of birds.
+I am a physics PhD candidate at UCLA and am working in the field of theoretical and computational condensed matter physics, in the [Roy](https://cmt-roy.physics.ucla.edu/content/rahul-roy) group at UCLA. I am passionate about using mathematics and numerical simulations in order to understand physical phenomena. I am currently working towards understanding how disorder and topology affect wavefunction localization properties in quantum crystalline materials. How localized electronic wavefunctions can be have a direct influence on physical properties of crystalline materials, such as conductivity and the ability to achieve thermal equilibrium. I am also interested in quantum computation and data science.
+
+I grew in [Pune](https://en.wikipedia.org/wiki/Pune), India, and hold a black belt in Taekwondo. I grew up learning how to play the violin and dabbled in sketching and drawing anime. While studying physics at [IIT-Bombay](https://en.wikipedia.org/wiki/IIT_Bombay), I interned at ETH-Zurich and used numerical simulations in order to identify highly influential dynamical features in chaotic atmospheric and oceanic motion. I currently reside in Los Angeles, and love to take photos of birds on weekends! One of my favorite types of birds is hummingbirds (hence the name _Hbirder_).
+
+To see some of the bird photos I have taken, follow me on [Instagram](https://www.instagram.com/birds.are.lit/). 
