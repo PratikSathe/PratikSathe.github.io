@@ -5,27 +5,36 @@ layout: single
 modified: 2022-07-16
 ---
 
-Here is a summary of some of the projects I am working on
 
-1. A
-2. B
-3. C
+{% for project in site.projects %}
+<div class="jumbotron">
+  <h2>{{ project.name }} - {{ project.startdate }}</h2>
+  <p>{{ project.content | markdownify }}</p>
+</div>
+{% endfor %}
 
-<!-- > ## Learning Objectives
->
-> After following this lesson,
-> learners will be able to:
->
-> - **create** formatted page content with Markdown
-> - **configure** their project to build and serve pages on GitHub
-> - **build** a coherent site with multiple pages using the Jekyll framework
-> - **customise** the layout and style of the pages on their site
->
+
+<!-- {% include a-loop-test.html %}
+
+projects:
+    - name: alpha
+      description: Search and rescue at sea
+
  -->
-<!--  {% include carousel.html height="50" unit="%" duration="7" number="1" %} -->
-<!-- carousels:        
-    - images: 
-        - image: /images/PV_barrier.gif
-        - image: /images/video1.gif
-        - image: /images/b.jpg
-        - image: /images/a.jpg -->
+<!-- <div class="jumbotron">
+  <h4>Benchmarking of Iterative Quantum Algorithms</h4>
+  <p></p>
+  <div class="row align-items-end">
+    <div class="col-md-9 col-sm-12">
+      <ul>
+        <li>Our group works on <strong>quantum algorithms</strong> for the PDEs that govern fluid flows and other phenomena to gain exponential speedups</li>
+        <li>We develop quantum lattice-based algorithms like quantum lattice Boltzmann and lattice gas</li>
+        <li>Quantum <em>simulation</em> is used to scale our algorithms to large HPC resources for analysis</li>
+      </ul>
+    </div>
+    <div class="col-md-3 col-sm-12" style="background-color:transparent">
+      <p><img width="20%" src="/assets/images/bio-photo.jpg" /></p>
+    </div>
+  </div>
+</div>
+ -->
