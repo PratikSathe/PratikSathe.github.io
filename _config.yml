@@ -355,8 +355,6 @@ picture:
 
 collections:
   projects:
-    sort_by: startdate
     output: false
   updates:
-    sort_by: date
     output: false
