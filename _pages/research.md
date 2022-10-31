@@ -5,30 +5,31 @@ layout: single
 modified: 2022-07-16
 ---
 
-Placeholder descriptions. Figures to be added soon. 
-
-<!--- {% assign projects = site.projects | sort: 'start_year' | reverse %}
-{% for project in projects %}
-
-<div class="jumbotron">
-  <h2>{{ project.name }}</h2>
-  <p>{{ project.content | markdownify }}</p>
-</div>
-{% endfor %} --->
-NOW TESTING OUT NEWEST STUFF
+<!-- <table>
+<tr>
+<th style="width:20%"></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</td>
+<td>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</td>
+<td>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</td>
+</tr>
+</table> -->
 
 {% assign projects = site.projects | sort: 'start_year' | reverse %}
 {% for project in projects %}
 
-<h2>{{ project.name }}</h2>
+<h3>{{ project.name }}</h3>
 {% if project.image %}
 <table>
 <tr>
-    <th style="width:30%"></th>
-    <th style="width:70%"></th>
+    <th style="width:25%"></th>
+    <th style="width:75%"></th>
 </tr>
 <tr>
-    <td><iframe src="/assets/images/projects/{{ project.image }}" frameborder="0" width="100%"></iframe></td>
+    <td><img style="height:100%; width:100%" width="100%" src="/assets/images/projects/{{ project.image }}" frameborder="0"></td>
     <td><p>{{ project.content | markdownify }}</p></td>
 </tr>
 </table>
@@ -43,8 +44,6 @@ NOW TESTING OUT NEWEST STUFF
 </table>
 {% endif %}
 {% endfor %}
-
----
 
 {% comment %}
 <h2>Active Projects</h2>
@@ -70,4 +69,5 @@ NOW TESTING OUT NEWEST STUFF
 </div>
 {% endfor %}
 {% endcomment %}
---->
+
+
