@@ -7,6 +7,15 @@ main:
     url: /posts/
   - title: "About me"
     url: /
+research_nav:
+- title: "Research Projects"
+  children:
+    - title: "MS Office"
+      url: /
+    - title: "Word - Avansat"
+      url: /despre/
+    - title: "Excel - Avansat"
+      url: /blog/
   # - title: "Contact"
   #   url: /contact/
   # - title: "Home"

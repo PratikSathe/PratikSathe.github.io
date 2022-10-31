@@ -2,12 +2,10 @@
 permalink: /research/
 title: "Research"
 layout: single
+sidebar:
+  nav: "research_nav"
 modified: 2022-10-31
 ---
-[click on this link](#my-multi-word-header)
-
-### My Multi Word Header
-
 
 {% assign projects = site.projects | sort: 'end_year' | reverse %}
 {% for project in projects %}
