@@ -44,9 +44,9 @@ Steps:
 
 Initializing:
 
-1. Create a folder for website, say 'website1'. Navigate to that website
+1. Create a folder for website, say 'website1'. Navigate to that folder
 
-2. To create a gemfile, type bundle init. Within the newly greated gemfile, add `gem "jekyll"`
+2. To create a gemfile, type `bundle init`. Within the newly greated gemfile, add `gem "jekyll"`
 
 3. Run the following:
    
@@ -68,9 +68,9 @@ Here are the steps I followed:
 
 1. Create my website repository (`pratiksathe.github.io`)
 
-2. Copy all the files from the `Minimal Mistakes` repository into this repository.
+2. Copy all the files from the `Minimal Mistakes` repository into this repository. Clone the repository on my computer.
 
-3. In cmd, do `bundle`, `bundle add webrick`, `bundle update` and `bundle install`.
+3. Open cmd into the repo folder, and do `bundle`, `bundle add webrick`, `bundle update` and `bundle install`.
 
 4. Do `bundle exec jekyll serve --livereload`. Go to `localhost:4000` in a browser. Making any changes in the folder will be reflected immediately in the browser.
 
