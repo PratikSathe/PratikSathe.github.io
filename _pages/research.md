@@ -2,12 +2,16 @@
 permalink: /research/
 title: "Research"
 layout: single
-modified: 2022-07-16
+modified: 2022-10-31
 ---
+[click on this link](#my-multi-word-header)
+
+### My Multi Word Header
+
 
 {% assign projects = site.projects | sort: 'end_year' | reverse %}
 {% for project in projects %}
-<h3>{{ project.name }}</h3>
+### {{ project.name }}
 {% if project.image %}
 <table>
 <tr>
