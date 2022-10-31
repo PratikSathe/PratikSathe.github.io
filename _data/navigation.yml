@@ -10,12 +10,18 @@ main:
 research_nav:
 - title: "Research Projects"
   children:
-    - title: "MS Office"
-      url: /
-    - title: "Word - Avansat"
-      url: /despre/
-    - title: "Excel - Avansat"
-      url: /blog/
+    - title: "Benchmarking QAOA"
+      url: /research/#benchmarking-of-iterative-quantum-classical-algorithms
+    - title: "Scattering Expansion"
+      url: /research/#scattering-expansion-for-localization-in-one-dimension
+    - title: "Delocalization AIII Floquet"
+      url: /research/#universal-delocalization-transition-in-chiral-floquet-topological-insulators
+    - title: "Wannier Functions"
+      url: /research/#compactly-supported-wannier-functions
+    - title: "Search and Rescue"
+      url: /research/#search-and-rescue-at-sea-aided-by-hidden-flow-structures
+    - title: "Polar Vortex"
+      url: /research/#uncovering-the-edge-of-the-polar-vortex
   # - title: "Contact"
   #   url: /contact/
   # - title: "Home"

@@ -4,6 +4,7 @@ title: "Research"
 layout: single
 sidebar:
   nav: "research_nav"
+author_profile: False
 modified: 2022-10-31
 ---
 
