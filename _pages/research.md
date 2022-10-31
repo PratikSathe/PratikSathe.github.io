@@ -18,7 +18,7 @@ modified: 2022-07-16
 </tr>
 </table> -->
 
-{% assign projects = site.projects | sort: 'start_year' | reverse %}
+{% assign projects = site.projects | sort: 'end_year' | reverse %}
 {% for project in projects %}
 
 <h3>{{ project.name }}</h3>
