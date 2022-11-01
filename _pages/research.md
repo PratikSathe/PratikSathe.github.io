@@ -18,7 +18,7 @@ modified: 2022-10-31
     <th style="width:75%"></th>
 </tr>
 <tr>
-    <td><img style="height:100%; width:100%" width="100%" src="/assets/images/projects/{{ project.image }}" frameborder="0"></td>
+    <td><img src="/assets/images/projects/{{ project.image }}" frameborder="0"></td>
     <td><p>{{ project.content | markdownify }}</p></td>
 </tr>
 </table>
