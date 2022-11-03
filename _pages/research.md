@@ -12,25 +12,12 @@ modified: 2022-10-31
 {% for project in projects %}
 ### {{ project.name }}
 {% if project.image %}
-<table>
-<tr>
-    <th style="width:25%"></th>
-    <th style="width:75%"></th>
-</tr>
-<tr>
-    <td><img src="/assets/images/projects/{{ project.image }}" frameborder="0"></td>
-    <td><p>{{ project.content | markdownify }}</p></td>
-</tr>
-</table>
+<img src="/assets/images/projects/{{ project.image }}" style="padding: 0px 20px 10px 0px;" frameborder="0" align=left width="35%" /> 
+<div>
+{{ project.content | markdownify | remove: '<p>' | remove: '</p>' }}
+</div>
 {% else %}
-<table>
-<tr>
-    <th></th>
-</tr>
-<tr>
-    <td><p>{{ project.content | markdownify }}</p></td>
-</tr>
-</table>
+{{ project.content | markdownify }}
 {% endif %}
 {% endfor %}
 
