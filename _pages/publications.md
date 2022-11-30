@@ -8,6 +8,7 @@ modified: 2022-10-18
 Preprints:
 
 1. Adrian B. Culver, Pratik Sathe and Rahul Roy. “Scattering Expansion for Localization in One Dimension.” (2022). [[link](https://arxiv.org/abs/2210.07999)][[PDF](\assets\PDFs\Publications\2022 Scattering Expansion Letter.pdf)]
+2. Adrian B. Culver, Pratik Sathe and Rahul Roy. “Scattering Expansion for Localization in One Dimension.” (2022). [[link](https://arxiv.org/abs/2211.13368)][[PDF](https://arxiv.org/pdf/2211.13368.pdf)]
 
 Published papers:
 
