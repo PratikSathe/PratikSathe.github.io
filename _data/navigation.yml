@@ -7,34 +7,23 @@ main:
     url: /posts/
   - title: "About me"
     url: /
-
 research_nav:
-
 - title: "Research Projects"
   children:
-
-  - title:"Flat Hamiltonians Triviality"
-
+  - title: "Flat Hamiltonians Triviality"
     url: /research/#flat-hamiltonians-are-topologically-trivial
-
-    - title: "Compact Wannier Functions"
-      url: /research/#compactly-supported-wannier-functions
-
-    - title: "Scattering Expansion"
-      url: /research/#scattering-expansion-for-localization-in-one-dimension
-
-    - title: "Delocalization AIII Floquet"
-      url: /research/#universal-delocalization-transition-in-chiral-floquet-topological-insulators
-
-    - title: "Benchmarking Quantum"
-
-      url: /research/#benchmarking-of-iterative-quantum-classical-algorithms
-
-    - title: "Search and Rescue"
-      url: /research/#search-and-rescue-at-sea-aided-by-hidden-flow-structures
-
-    - title: "Polar Vortex"
-      url: /research/#uncovering-the-edge-of-the-polar-vortex
+  - title: "Compact Wannier Functions"
+    url: /research/#compactly-supported-wannier-functions
+  - title: "Scattering Expansion"
+    url: /research/#scattering-expansion-for-localization-in-one-dimension
+  - title: "Delocalization AIII Floquet"
+    url: /research/#universal-delocalization-transition-in-chiral-floquet-topological-insulators
+  - title: "Benchmarking Quantum"
+    url: /research/#benchmarking-of-iterative-quantum-classical-algorithms
+  - title: "Search and Rescue"
+    url: /research/#search-and-rescue-at-sea-aided-by-hidden-flow-structures
+  - title: "Polar Vortex"
+    url: /research/#uncovering-the-edge-of-the-polar-vortex
 
 # - title: "Contact"
 #   url: /contact/
