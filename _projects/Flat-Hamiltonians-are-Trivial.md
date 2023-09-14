@@ -1,5 +1,5 @@
 ---
-name: Compactly Supported Wannier Functions
+name: Flat Hamiltonians are Topologically Trivial
 end_year: 2021
 image: flat_Hamiltonians.png
 ---
