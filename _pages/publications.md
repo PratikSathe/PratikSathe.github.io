@@ -7,10 +7,11 @@ modified: 2022-10-18
 
 Preprints:
 
-1. Pratik Sathe, Rahul Roy. "Compact Wannier Functions in One Dimension" (2023). [[link](https://arxiv.org/abs/2302.11608)] [[PDF](https://arxiv.org/pdf/2302.11608.pdf)]
-2. Thomas Lubinski, Carleton Coffrin, Catherine McGeoch, Pratik Sathe, Joshua Apanavicius, David E. Bernal Neira. "Optimization Applications as Quantum Performance Benchmarks" (2023). [[link]](https://arxiv.org/abs/2302.02278)[[PDF]](https://arxiv.org/pdf/2302.02278.pdf)
-3. Adrian B. Culver, Pratik Sathe and Rahul Roy. “Scattering Expansion for Localization in One Dimension” (2022). [[link](https://arxiv.org/abs/2210.07999)][[PDF](\assets\PDFs\Publications\2022 Scattering Expansion Letter.pdf)]
-4. Adrian B. Culver, Pratik Sathe and Rahul Roy. “Scattering Expansion for Localization in One Dimension: from Disordered Wires to Quantum Walks” (2022). [[link](https://arxiv.org/abs/2211.13368)][[PDF](https://arxiv.org/pdf/2211.13368.pdf)]
+1. Pratik Sathe and Rahul Roy. "Topological Triviality of Flat Hamiltonians" (2023). [[link](https://arxiv.org/abs/2309.06487)] [[PDF](https://arxiv.org/pdf/2309.06487.pdf)]
+2. Pratik Sathe, Rahul Roy. "Compact Wannier Functions in One Dimension" (2023). [[link](https://arxiv.org/abs/2302.11608)] [[PDF](https://arxiv.org/pdf/2302.11608.pdf)]
+3. Thomas Lubinski, Carleton Coffrin, Catherine McGeoch, Pratik Sathe, Joshua Apanavicius, David E. Bernal Neira. "Optimization Applications as Quantum Performance Benchmarks" (2023). [[link]](https://arxiv.org/abs/2302.02278)[[PDF]](https://arxiv.org/pdf/2302.02278.pdf)
+4. Adrian B. Culver, Pratik Sathe and Rahul Roy. “Scattering Expansion for Localization in One Dimension” (2022). [[link](https://arxiv.org/abs/2210.07999)][[PDF](\assets\PDFs\Publications\2022 Scattering Expansion Letter.pdf)]
+5. Adrian B. Culver, Pratik Sathe and Rahul Roy. “Scattering Expansion for Localization in One Dimension: from Disordered Wires to Quantum Walks” (2022). [[link](https://arxiv.org/abs/2211.13368)][[PDF](https://arxiv.org/pdf/2211.13368.pdf)]
 
 Published papers:
 
