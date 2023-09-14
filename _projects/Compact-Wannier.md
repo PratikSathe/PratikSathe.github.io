@@ -1,6 +1,6 @@
 ---
 name: Compactly Supported Wannier Functions
-end_year: 2021
+end_year: 2023
 image: comp_sup.png
 ---
 
