@@ -104,13 +104,13 @@ analytics:
 author:
   name             : "Pratik Sathe"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Physics PhD candidate"
-  location         : "Los Angeles"
-  email            : "psathe@ucla.edu"
+  bio              : "Senior Performance Researcher at D-Wave"
+  location         : "Santa Fe, NM"
+  email            : "psathe@dwavesys.com"
   links:
     #- label: "email"
     #  icon: "fas fa-fw fa-envelope-square"
-    #  url: "mailto:psathe@ucla.edu"
+    #  url: "mailto:psathe@dwavesys.com"
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
     #  url: "https://pratiksathe.com"
